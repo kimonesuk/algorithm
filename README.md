@@ -2,8 +2,7 @@
 
 * 알고리즘 문제풀이를 저장해둔 repo입니다.   
 
-## 목차
- - [목차](#목차)
+## 목차(Index)
  - [공부 순서](#공부-순서)
  - [깃허브 내용](#깃허브-내용)
 	- [SW Expert Academy - Programming Intermediate](#sw-expert-academy---programming-intermediate)
