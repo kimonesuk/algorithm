@@ -1,14 +1,15 @@
 # 파이썬 SW 문제해결 기본 - List 1
 
 ## 목차(Index)
-- [1. 완전검색(Exhaustive Search)](#완전검색-exhaustive-search)
-- [2. 탐욕 알고리즘(Greedy Algorithm)](#탐욕-알고리즘-greedy-algorithm)
-- [3. 정렬(Sort)](#정렬-sort)
-  - [1. 정렬 개요](#정렬-개요)
-  - [2. 버블 정렬](#버블-정렬)
-  - [3. 카운팅 정렬](#카운팅-정렬)
-- [4. 연습문제](#연습문제)
-- [BACK](https://github.com/kimonesuk/algorithm/blob/main/README.md)
+- [파이썬 SW 문제해결 기본 - List 1](#파이썬-sw-문제해결-기본---list-1)
+	- [목차(Index)](#목차index)
+	- [완전검색 Exhaustive Search](#완전검색-exhaustive-search)
+	- [탐욕 알고리즘 Greedy Algorithm](#탐욕-알고리즘-greedy-algorithm)
+	- [정렬 Sort](#정렬-sort)
+		- [정렬 개요](#정렬-개요)
+		- [버블 정렬](#버블-정렬)
+		- [카운팅 정렬](#카운팅-정렬)
+	- [연습문제](#연습문제)
 
 ## 완전검색 Exhaustive Search
 
@@ -91,7 +92,7 @@
 
 ## 연습문제
 * [min_max](https://github.com/kimonesuk/algorithm/blob/main/list_minmax.ipynb)
-* 전기버스
+* [전기버스](https://github.com/kimonesuk/algorithm/blob/main/list_bus.ipynb)
 * 숫자카드
 * 구간합
 
