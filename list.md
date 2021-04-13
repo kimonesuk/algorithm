@@ -1,16 +1,16 @@
 # 파이썬 SW 문제해결 기본 - List 1
 
 ## 목차(Index)
-- [1. 완전검색(Exhaustive Search)](#완전검색(exhaustive-search))
-- [2. 탐욕 알고리즘(Greedy Algorithm)](#탐욕-알고리즘(greedy-algorithm))
-- [3. 정렬(Sort)](#정렬(sort))
+- [1. 완전검색(Exhaustive Search)](#1.-완전검색)
+- [2. 탐욕 알고리즘(Greedy Algorithm)](#2.-탐욕-알고리즘)
+- [3. 정렬(Sort)](#3.-정렬)
   - [1. 정렬 개요](#1.-정렬-개요)
   - [2. 버블 정렬](#2.-버블-정렬)
   - [3. 카운팅 정렬](#3.-카운팅-정렬)
-- [4. 연습문제](#연습문제)
+- [4. 연습문제](#4. 연습문제)
 - [BACK](https://github.com/kimonesuk/algorithm/blob/main/README.md)
 
-## 완전검색(Exhaustive Search)
+## 1. 완전검색
 
 * = Brute-force, Generate-and-Test
 * 모든 경우의 수를 테스트한 후, 최종 해법을 도출
@@ -26,7 +26,7 @@
 		1. 고려할 수 있는 모든 경우의 수 생성(중복 포함)
 		2. 해답 테스트하기 : 앞 3자리와 뒤 3자리를 잘라, run과 triplete 여부를 테스트하고 최종적으로 Baby-gin을 판단
 
-## 탐욕 알고리즘(Greedy Algorithm)
+## 2. 탐욕 알고리즘
 
 * 여러 경우 중 하나를 결정해야 할 때마다 **그 순간에 최적이라고 생각되는 것을 선택해나가는 방식**으로 진행하여 최종적인 해답에 도달
 * 각 선택의 시점에서 이루어지는 결정은 지역적으로는 최적이지만, 그것들을 수집한 최종해답이 최적이라는 보장은 없음
@@ -49,7 +49,7 @@
 		+ {6, 4, 4, 5, 4, 4} : 가능
 		+ {1, 2, 3, 1, 2, 3} : 실패
 
-## 정렬(Sort)
+## 3. 정렬
 ### 1. 정렬 개요
 * 2개 이상의 자료를 특정 기준에 의해 작은 값부터 큰 값(오름차순, ascending) 혹은 그 반대의 순서(내림차순, descending)로 재배열하는 것
 * 키(key)란 자료를 정렬하는 기준이 되는 특정 값
@@ -89,7 +89,7 @@
 	COUNTS = {1, 4, 5, 6, 8}
 	3. 마지막부터 값을 순서에 맞게 넣어줌 : 해당 값의 COUNTS 값에 해당하는 위치에 넣어주고 COUNTS 1 감소
 
-## 연습문제
+## 4. 연습문제
 * [min_max](https://github.com/kimonesuk/algorithm/blob/main/list_minmax.ipynb)
 * 전기버스
 * 숫자카드
