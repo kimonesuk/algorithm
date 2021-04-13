@@ -1,13 +1,22 @@
 # Algorithm
 
 * 알고리즘 문제풀이를 저장해둔 repo입니다.   
+
+## 목차
+ - [목차](#목차)
+ - [공부 순서](#공부-순서)
+ - [깃허브 내용](#깃허브-내용)
+	- [SW Expert Academy - Programming Intermediate](#sw-expert-academy---programming-intermediate)
+	- [SW Expert Academy - Programming Adcanced](#sw-expert-academy---programming-adcanced)
+	- [백준 문제 풀이](#백준-문제-풀이)
    
 ## 공부 순서
 1. [파이썬 기본 문법 정리](https://github.com/kimonesuk/PythonPractice)
 2. [SW Expert Academy - Programming Intermediate](https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6)
 3. [SW Expert Academy - Programming Advanced](https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDYSqAAbw5UW6)
 4. [백준 문제 풀이](https://www.acmicpc.net/)
-
+   
+   
 ## 깃허브 내용
 ### SW Expert Academy - Programming Intermediate
 * [List1](https://github.com/kimonesuk/algorithm/blob/main/list.md)
