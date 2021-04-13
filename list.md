@@ -1,7 +1,7 @@
 # 파이썬 SW 문제해결 기본 - List 1
 
 ## 목차(Index)
-- [1. 완전검색(Exhaustive Search)](#1-완전검색)
+- [1. 완전검색(Exhaustive Search)](#1-완전검색(exhaustive-search))
 - [2. 탐욕 알고리즘(Greedy Algorithm)](#2-탐욕-알고리즘)
 - [3. 정렬(Sort)](#3-정렬)
   - [1. 정렬 개요](#1.-정렬-개요)
@@ -10,7 +10,7 @@
 - [4. 연습문제](#4-연습문제)
 - [BACK](https://github.com/kimonesuk/algorithm/blob/main/README.md)
 
-## 1 완전검색
+## 1 완전검색(Exhaustive Search)
 
 * = Brute-force, Generate-and-Test
 * 모든 경우의 수를 테스트한 후, 최종 해법을 도출
