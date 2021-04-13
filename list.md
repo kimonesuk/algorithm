@@ -81,7 +81,7 @@
 	3. 마지막부터 값을 순서에 맞게 넣어줌 : 해당 값의 COUNTS 값에 해당하는 위치에 넣어주고 COUNTS 1 감소
 
 ### 4. 연습문제
-* min_max
+* [min_max](https://github.com/kimonesuk/algorithm/blob/main/list_minmax.ipynb)
 * 전기버스
 * 숫자카드
 * 구간합
