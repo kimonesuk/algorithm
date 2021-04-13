@@ -1,7 +1,7 @@
 # 파이썬 SW 문제해결 기본 - List 1
 
 ## 목차(Index)
-  * [1. 완전검색(Exhaustive Search)](#1------exhaustive-search-)
+  * [1. 완전검색(Exhaustive Search)](#1-완전검색--exhaustive-search-)
   * [2. 탐욕 알고리즘(Greedy Algorithm)](#2---------greedy-algorithm-)
   * [3. 정렬(Sort)](#3----sort-)
     + [1. 정렬 개요](#1------)
