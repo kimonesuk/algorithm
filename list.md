@@ -93,6 +93,6 @@
 ## 연습문제
 * [min_max](https://github.com/kimonesuk/algorithm/blob/main/list_minmax.ipynb)
 * [전기버스](https://github.com/kimonesuk/algorithm/blob/main/list_bus.ipynb)
-* 숫자카드
+* [숫자카드](https://github.com/kimonesuk/algorithm/blob/main/list_card.ipynb)
 * 구간합
 
