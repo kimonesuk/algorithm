@@ -1,8 +1,7 @@
 # 파이썬 SW 문제해결 기본 - List 1
 
-## 목차(Index)
+**목차(Index)**
 - [파이썬 SW 문제해결 기본 - List 1](#파이썬-sw-문제해결-기본---list-1)
-	- [목차(Index)](#목차index)
 	- [완전검색 Exhaustive Search](#완전검색-exhaustive-search)
 	- [탐욕 알고리즘 Greedy Algorithm](#탐욕-알고리즘-greedy-algorithm)
 	- [정렬 Sort](#정렬-sort)

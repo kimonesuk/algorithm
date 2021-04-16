@@ -19,7 +19,7 @@
 ## 깃허브 내용
 ### SW Expert Academy - Programming Intermediate
 * [List1](https://github.com/kimonesuk/algorithm/blob/main/list.md)
-* List2
+* [List2](https://github.com/kimonesuk/algorithm/blob/main/list2.md)
 * String
 * Stack1
 * Stack2
